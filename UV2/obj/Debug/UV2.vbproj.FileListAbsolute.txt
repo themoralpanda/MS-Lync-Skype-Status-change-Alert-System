@@ -1,0 +1,14 @@
+C:\Users\Pathi\Documents\Visual Studio 2013\Projects\UV2\UV2\bin\Debug\UV2.exe.config
+C:\Users\Pathi\Documents\Visual Studio 2013\Projects\UV2\UV2\bin\Debug\UV2.exe
+C:\Users\Pathi\Documents\Visual Studio 2013\Projects\UV2\UV2\bin\Debug\UV2.pdb
+C:\Users\Pathi\Documents\Visual Studio 2013\Projects\UV2\UV2\bin\Debug\UV2.xml
+C:\Users\Pathi\Documents\Visual Studio 2013\Projects\UV2\UV2\bin\Debug\Microsoft.Lync.Model.dll
+C:\Users\Pathi\Documents\Visual Studio 2013\Projects\UV2\UV2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pathi\Documents\Visual Studio 2013\Projects\UV2\UV2\bin\Debug\Microsoft.Office.Uc.dll
+C:\Users\Pathi\Documents\Visual Studio 2013\Projects\UV2\UV2\obj\Debug\UV2.Form1.resources
+C:\Users\Pathi\Documents\Visual Studio 2013\Projects\UV2\UV2\obj\Debug\UV2.Resources.resources
+C:\Users\Pathi\Documents\Visual Studio 2013\Projects\UV2\UV2\obj\Debug\UV2.vbproj.GenerateResource.Cache
+C:\Users\Pathi\Documents\Visual Studio 2013\Projects\UV2\UV2\obj\Debug\UV2.exe
+C:\Users\Pathi\Documents\Visual Studio 2013\Projects\UV2\UV2\obj\Debug\UV2.xml
+C:\Users\Pathi\Documents\Visual Studio 2013\Projects\UV2\UV2\obj\Debug\UV2.pdb
+C:\Users\Pathi\Documents\Visual Studio 2013\Projects\UV2\UV2\obj\Debug\UV2.vbprojResolveAssemblyReference.cache
